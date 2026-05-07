@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#F2ECD9"/>
+  <text x="32" y="48"
+        font-family="Fraunces, 'Times New Roman', Georgia, serif"
+        font-size="52"
+        font-style="italic"
+        font-weight="400"
+        fill="#B8954F"
+        text-anchor="middle">&amp;</text>
+</svg>
