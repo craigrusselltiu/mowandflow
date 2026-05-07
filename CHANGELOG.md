@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## v3.0.0 — 2026-05-08
+
+### Added
+
+- Added a separate alternate site deployment under `alternative/`.
+- Added a generated campaign-style hero image for the alternate design at `alternative/assets/hero-02.png`.
+
+### Changed
+
+- Kept the primary root site active while making the alternate concept available as a subfolder deployment.
+
 ## v2.0.0 — 2026-05-07
 
 ### Changed

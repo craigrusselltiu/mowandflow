@@ -19,6 +19,8 @@ python -m http.server 8000
 
 Pushed to `main` and deployed to GitHub Pages via `.github/workflows/deploy.yml`.
 
+The primary site is served from the repository root. The alternate concept is deployed from `alternative/` and is available at `/alternative/` on GitHub Pages.
+
 ## Files
 
 - `index.html` — markup
@@ -27,3 +29,4 @@ Pushed to `main` and deployed to GitHub Pages via `.github/workflows/deploy.yml`
 - `favicon.svg` — italic ampersand mark
 - `assets/` — images (placeholders until real photography is dropped in)
 - `docs/SPEC.md` — site specification
+- `alternative/` — alternate site concept deployed as a subfolder
